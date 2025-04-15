@@ -7,3 +7,5 @@ conceitos abordados:
 - Armazenamento e gerenciamento de estado manual
 - Funções limpas
 - Organização de código
+
+link para jogar: https://arthurlanapereira.github.io/JO-KEN-YO-JS/
